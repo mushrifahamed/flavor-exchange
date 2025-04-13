@@ -1,0 +1,196 @@
+{
+    "recipes": [
+      {
+        "id": "2",
+        "title": "Margherita Pizza",
+        "time": 40,
+        "rating": 4.8,
+        "image": "https://safrescobaldistatic.blob.core.windows.net/media/2022/11/PIZZA-MARGHERITA.jpg",
+        "ingredients": [
+          "Pizza Dough",
+          "Tomato Sauce",
+          "Fresh Mozzarella",
+          "Basil"
+        ],
+        "instructions": [
+          "Roll out pizza dough.",
+          "Spread tomato sauce over the dough.",
+          "Top with mozzarella and basil.",
+          "Bake in a preheated oven at 220°C for 15 minutes."
+        ]
+      },
+      {
+        "id": "3",
+        "title": "Spaghetti Carbonara",
+        "time": 30,
+        "rating": 4.5,
+        "image": "https://www.allrecipes.com/thmb/Vg2cRidr2zcYhWGvPD8M18xM_WY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11973-spaghetti-carbonara-ii-DDMFS-4x3-6edea51e421e4457ac0c3269f3be5157.jpg",
+        "ingredients": [
+          "200g Spaghetti",
+          "100g Bacon",
+          "2 Eggs",
+          "Parmesan Cheese"
+        ],
+        "instructions": [
+          "Boil spaghetti until al dente.",
+          "Fry bacon until crispy.",
+          "Whisk eggs and mix with Parmesan cheese.",
+          "Toss pasta with bacon and egg mixture."
+        ]
+      },
+      {
+        "id": "4",
+        "title": "Chicken Alfredo",
+        "time": 35,
+        "rating": 4.2,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5EuVYEm22v_-iy2vFQ-4niAT7Dk4uzs_CYA&s",
+        "ingredients": [
+          "200g Fettuccine",
+          "2 Chicken Breasts",
+          "1 cup Heavy Cream",
+          "1/2 cup Parmesan",
+          "Garlic",
+          "Butter",
+          "Salt",
+          "Pepper"
+        ],
+        "instructions": [
+          "Cook fettuccine until al dente.",
+          "Season chicken with salt and pepper, then cook in a pan until golden.",
+          "Melt butter, add garlic, and cook until fragrant.",
+          "Add heavy cream and Parmesan, stirring until smooth.",
+          "Toss the fettuccine and chicken in the Alfredo sauce."
+        ]
+      },
+      {
+        "id": "5",
+        "title": "Beef Tacos",
+        "time": 20,
+        "rating": 4.3,
+        "image": "https://danosseasoning.com/wp-content/uploads/2022/03/Beef-Tacos-1024x767.jpg",
+        "ingredients": [
+          "500g Ground Beef",
+          "Taco Shells",
+          "Lettuce",
+          "Tomato",
+          "Cheddar Cheese",
+          "Sour Cream",
+          "Taco Seasoning",
+          "Olive Oil"
+        ],
+        "instructions": [
+          "Brown the ground beef in a pan with olive oil.",
+          "Add taco seasoning and cook according to package instructions.",
+          "Fill taco shells with beef, lettuce, tomato, cheese, and sour cream."
+        ]
+      },
+      {
+        "id": "6",
+        "title": "Caesar Salad",
+        "time": 15,
+        "rating": 4.7,
+        "image": "https://cdn.loveandlemons.com/wp-content/uploads/2024/12/caesar-salad.jpg",
+        "ingredients": [
+          "Romaine Lettuce",
+          "Caesar Dressing",
+          "Croutons",
+          "Parmesan Cheese",
+          "Black Pepper"
+        ],
+        "instructions": [
+          "Tear the lettuce into bite-sized pieces.",
+          "Toss lettuce with Caesar dressing.",
+          "Top with croutons and grated Parmesan cheese.",
+          "Sprinkle black pepper on top and serve."
+        ]
+      },
+      {
+        "id": "7",
+        "title": "Chocolate Cake",
+        "time": 50,
+        "rating": 4.9,
+        "image": "https://www.allrecipes.com/thmb/zb8muWE6CQ5XjclY_LQ2i-QwxN0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17981-one-bowl-chocolate-cake-iii-DDMFS-beauty-4x3-d2e182087e4b42a3a281a0a355ea60d1.jpg",
+        "ingredients": [
+          "200g Flour",
+          "100g Cocoa Powder",
+          "200g Sugar",
+          "3 Eggs",
+          "1 cup Milk",
+          "1/2 cup Butter",
+          "1 tsp Baking Powder",
+          "Vanilla Extract"
+        ],
+        "instructions": [
+          "Preheat oven to 180°C (350°F).",
+          "Mix flour, cocoa powder, sugar, and baking powder in a bowl.",
+          "Whisk eggs, milk, melted butter, and vanilla extract in another bowl.",
+          "Combine both mixtures and pour into a greased cake tin.",
+          "Bake for 30-35 minutes, then let cool before frosting."
+        ]
+      },
+      {
+        "id": "8",
+        "title": "Vegetable Soup",
+        "time": 40,
+        "rating": 4.4,
+        "image": "https://www.allrecipes.com/thmb/p4F_knUDCrUNusNOTyjY_dCp8d4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/13338-quick-and-easy-vegetable-soup-DDMFS-4x3-402702f59e7a41519515cecccaba1b80.jpg",
+        "ingredients": [
+          "Carrots",
+          "Celery",
+          "Onion",
+          "Tomato Paste",
+          "Vegetable Broth",
+          "Garlic",
+          "Herbs",
+          "Salt",
+          "Pepper"
+        ],
+        "instructions": [
+          "Chop vegetables and sauté with garlic in a pot.",
+          "Add tomato paste and vegetable broth.",
+          "Simmer for 30 minutes, adding herbs, salt, and pepper to taste.",
+          "Serve hot with crusty bread."
+        ]
+      },
+      {
+        "id": "9",
+        "title": "Chicken Parmesan",
+        "time": 45,
+        "rating": 4.8,
+        "image": "https://kristineskitchenblog.com/wp-content/uploads/2024/08/chicken-parmesan-recipe-07-3.jpg",
+        "ingredients": [
+          "Chicken Breasts",
+          "Bread Crumbs",
+          "Eggs",
+          "Parmesan Cheese",
+          "Marinara Sauce",
+          "Mozzarella Cheese",
+          "Olive Oil"
+        ],
+        "instructions": [
+          "Bread the chicken by dipping in egg and then breadcrumbs.",
+          "Fry the chicken until golden brown on both sides.",
+          "Top with marinara sauce and mozzarella, then bake in the oven until cheese melts."
+        ]
+      },
+      {
+        "id": "10",
+        "title": "Lemonade",
+        "time": 10,
+        "rating": 4.2,
+        "image": "https://tarateaspoon.com/wp-content/uploads/2023/07/classic-lemonade-sq-08.jpg",
+        "ingredients": [
+          "Lemon Juice",
+          "Sugar",
+          "Water",
+          "Ice"
+        ],
+        "instructions": [
+          "Mix lemon juice, sugar, and water in a pitcher.",
+          "Stir until sugar dissolves, then add ice.",
+          "Serve chilled with lemon slices."
+        ]
+      }
+    ]
+  }
+  
