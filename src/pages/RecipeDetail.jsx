@@ -1,6 +1,6 @@
 import { useParams } from 'react-router-dom';
 import { useState, useEffect, useContext } from 'react';
-import { AppContext } from '../context/AppContext';I
+import { AppContext } from '../context/AppContext';
 
 function RecipeDetail() {
   const { id } = useParams();
